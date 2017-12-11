@@ -1,6 +1,5 @@
 function solve() {
     var input = document.getElementById("input").value;
-    var position = 5;
     var instructions = input.split("\n");
     var instructions2 = instructions.slice();
 

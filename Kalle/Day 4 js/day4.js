@@ -1,6 +1,5 @@
 function solve() {
     var input = document.getElementById("input").value;
-    var position = 5;
     var passphrases = input.split("\n");
 
     var validPassphrases = 0;
